@@ -20,7 +20,7 @@ The provided dataset consists of the following tables:
 The base table combines data from penjualan, pelanggan, and barang tables with the primary key on invoice_id.
 
 **Sample Base Table**
-![Sample Base Table](link_to_image)
+![Sample Base Table](https://github.com/geosimarmata/Big-Data-Analytics-at-Kimia-Farma/blob/main/Figs/Agg_table_fig.png)
 
 #### Tabel Aggregate
 The aggregate table summarizes data from the base table, facilitating faster and more efficient data analysis. This table will serve as the source for creating the sales dashboard.
