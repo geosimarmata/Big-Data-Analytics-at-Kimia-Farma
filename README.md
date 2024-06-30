@@ -9,7 +9,6 @@ The final project for this internship involves creating a sales dashboard for on
 
 ## Dataset
 The provided dataset consists of the following tables:
-
 **penjualan**: Sales transactions data.
 **barang**: Product details.
 **pelanggan**: Customer information.
@@ -26,5 +25,6 @@ The aggregate table summarizes data from the base table, facilitating faster and
 ![Sample Aggregate Table](https://github.com/geosimarmata/Big-Data-Analytics-at-Kimia-Farma/blob/main/Figs/Agg_table_fig.png)
 
 ### 📊 Data Visualization
-Built a comprehensive dashboard using Google Data Studio with the aggregate table as the data source. Explore the dashboard here.
+Built a comprehensive dashboard using Google Data Studio with the aggregate table as the data source. 
+![Dashboard](https://github.com/geosimarmata/Big-Data-Analytics-at-Kimia-Farma/blob/main/Figs/Dashboard.png))
 
