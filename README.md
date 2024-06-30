@@ -15,7 +15,7 @@ The provided dataset consists of the following tables:
 **pelanggan**: Customer information.
 
 ### 📂 Design Datamart
-[Click here to view the Query](#)
+[Click here to view the Query](https://github.com/geosimarmata/Big-Data-Analytics-at-Kimia-Farma/blob/main/All_Query.sql)
 
 #### Tabel Base
 The base table combines data from penjualan, pelanggan, and barang tables with the primary key on invoice_id.
