@@ -1,3 +1,4 @@
+-- Geo Perdana Saragih
 
 USE kimia_farma;
 
